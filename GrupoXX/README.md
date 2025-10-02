@@ -1,6 +1,7 @@
 ## Nombre de los integrantes del grupo y usuarios de GitHub
 
 - Nombre: Daniel Fernández Feás Usuario: @DanielFernandezFeas
+- Nombre: Daniel Javier Flores Flores Usuario: @danielorse
 
 ## Descripción del trabajo
 Selección de datasets Smart City (accidentalidad Madrid 2024 en CSV), evaluación de requisitos (R1–R6) y definición de la aplicación a construir.
