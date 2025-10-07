@@ -2,6 +2,7 @@
 
 - Nombre: Daniel Fernández Feás Usuario: @DanielFernandezFeas
 - Nombre: Daniel Javier Flores Flores Usuario: @danielorse
+- Nombre: Araceli Rubio García Usuario: @arubiio
 
 ## Descripción del trabajo
 Selección de datasets Smart City (accidentalidad Madrid 2024 en CSV), evaluación de requisitos (R1–R6) y definición de la aplicación a construir.
