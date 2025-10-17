@@ -26,9 +26,3 @@
 - Practicar mejor la sincronización entre ramas y *forks* para evitar conflictos en el flujo de trabajo.  
 
 ---
-
-### Cumplimiento de plazos (deadline: **2025-10-02 23:59 Europe/Madrid**)  
-- El trabajo se completó dentro del plazo previsto.  
-- Todos los entregables fueron subidos al repositorio de grupo y posteriormente enviados al repositorio del profesor mediante *Pull Request* antes de la fecha límite.  
-
----
